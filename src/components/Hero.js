@@ -6,7 +6,7 @@ const Hero = () => {
     <Box backgroundColor="#FFA8E2" w="100%" position="relative" h="70vh">
 
         <Image src="https://cdn.shopify.com/s/files/1/0472/5705/9496/files/Bath_Bomb_-_Product-4_-_nobg_1.png?v=1610055851.jpg"
-        h={{base: "60%" , xl:"80%"}} 
+        h={{base: "50%" , xl:"80%"}} 
         m="auto" 
         />
         
